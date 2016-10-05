@@ -5,7 +5,14 @@ h1 {
 section{
 	background-color: green;
 	width: 500px;
+	border: 1px solid blue;
 }
+title{
+	background-color: yellow;
+	width: 100px;
+	border: 1px solid blue;
+}
+
 h3{
 	font-size: 30px;
 }
